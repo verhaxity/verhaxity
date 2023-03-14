@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning frontend development and ui/ux.
 - 👯 I’m looking to collaborate on various web development projects.
 - 📫 Reach me at: https://solo.to/sickestvirtuoso
-- Linkedin Profile: https://in.linkedin.com/in/faaiqkhan
+- <b>Linkedin Profile: https://in.linkedin.com/in/faaiqkhan </b>
 
 Skills:
 
